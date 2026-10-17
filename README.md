@@ -1,4 +1,5 @@
 Marketing Case Analysis: Drivers of Online Article Engagement
+
 An R analysis of the `Global_media_data.csv` dataset that explores which content, multimedia, sentiment and timing features are associated with article engagement. It combines descriptive statistics, Principal Component Analysis (PCA), multiple linear regression and k-means clustering.
 ---
 Contents
