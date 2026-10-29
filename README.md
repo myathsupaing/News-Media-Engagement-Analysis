@@ -1,3 +1,38 @@
+# Marketing Case Analysis: Drivers of Online Article Engagement
+
+## Project Overview
+
+### Exploratory Data Analysis
+
+This project investigates which content characteristics, multimedia features, sentiment indicators, and publication timing variables are associated with online article engagement.
+
+Using R and the Global_media_data.csv dataset, the analysis combines exploratory data analysis (EDA), data cleaning, feature selection, Principal Component Analysis (PCA), multiple linear regression, and k-means clustering to explore engagement patterns and identify distinct article profiles.
+
+The project demonstrates how statistical analysis and unsupervised learning can support data-driven content and marketing decisions.
+
+## Objectives
+
+1. **Identify organisational themes:** Examine whether latent themes in employee-reported cons differ between high- and low-rated companies, drawing on **Herzberg's Two-Factor Theory of Motivation**.
+
+2. **Analyse linguistic indicators:** Evaluate whether linguistic features of advice-to-management text are associated with senior management satisfaction ratings, drawing on **Linguistic Concreteness Theory** and **Expectancy Disconfirmation Theory**.
+
+
+## Tools and Technologies
+- Language: R (4.0 or later)
+- Environment: RStudio
+- Statistical analysis: Multiple linear regression, correlation analysis, PCA, k-means clustering, ANOVA
+- Data preparation: Missing-value handling, duplicate removal, log transformations, feature selection
+- Model diagnostics: Variance Inflation Factor (VIF), Breusch–Pagan test, residual diagnostics
+- Visualisation: Correlation heatmaps, histograms, boxplots, scree plots, elbow plots, silhouette analysis
+
+
+- Explore online article engagement.
+- Identify relationships between content and engagement.
+- Apply Principal Component Analysis (PCA).
+- Build a multiple linear regression model.
+- Segment articles using k-means clustering.
+
+
 **Marketing Case Analysis: Drivers of Online Article Engagement**
 
 An R analysis of the `Global_media_data.csv` dataset that explores which content, multimedia, sentiment and timing features are associated with article engagement. It combines descriptive statistics, Principal Component Analysis (PCA), multiple linear regression and k-means clustering.
