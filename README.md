@@ -187,30 +187,20 @@ Install these packages once. The script can load them when required.
 ```text
 marketing-case-analysis/
 ├── data/
+│   ├── Global media data dictionary.docx
 │   └── Global_media_data.csv
-├── marketing case analysis-5.R
-└── README.md
-```
+├── README.md
+└── marketing case analysis-5.R
+
 
 ### Configure the Dataset Path
 
-If the CSV file is stored in the repository's `data/` directory, load it using:
+### Dataset
 
-```r
-data <- read.csv(
-  "data/Global_media_data.csv",
-  stringsAsFactors = FALSE
-)
-```
+Download the dataset: [Global_media_data.csv](data/Global_media_data.csv).
 
-If the file is stored directly in the project directory, use:
+Download the [Data Dictionary](data/Global%20media%20data%20dictionary.docx) for descriptions of the dataset variables.
 
-```r
-data <- read.csv(
-  "Global_media_data.csv",
-  stringsAsFactors = FALSE
-)
-```
 
 ### Run the Analysis
 
