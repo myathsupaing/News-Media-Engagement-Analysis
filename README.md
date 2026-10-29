@@ -191,6 +191,7 @@ marketing-case-analysis/
 │   └── Global_media_data.csv
 ├── README.md
 └── marketing case analysis-5.R
+```
 
 
 ### Configure the Dataset Path
