@@ -206,7 +206,7 @@ Download the [Data Dictionary](data/Global%20media%20data%20dictionary.docx) for
 ### Run the Analysis
 
 1. Download or clone this repository to your computer.
-2. Download the [R analysis script](marketing%20case%20analysis.R).
+2. Download the [R analysis script](marketing_case_analysis.R).
 3. Open the script in RStudio.
 4. Confirm that the dataset path is correct.
 5. Install any required packages that are not already available.
