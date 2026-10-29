@@ -205,12 +205,14 @@ Download the [Data Dictionary](data/Global%20media%20data%20dictionary.docx) for
 
 ### Run the Analysis
 
-1. Open `marketing case analysis-5.R` in RStudio.
-2. Confirm that the dataset path is correct.
-3. Install any required packages that are not already available.
-4. Run the script section by section or from top to bottom.
-5. Review the console output, regression diagnostics, and generated plots.
-6. Export the figures required for reporting.
+1. Download or clone this repository to your computer.
+2. Download the [R analysis script](marketing%20case%20analysis-5.R).
+3. Open the script in RStudio.
+4. Confirm that the dataset path is correct.
+5. Install any required packages that are not already available.
+6. Run the script section by section or from top to bottom.
+7. Review the console output, regression diagnostics, and generated plots.
+8. Export the figures required for reporting.
 
 ## Reproducibility and Interpretation
 
